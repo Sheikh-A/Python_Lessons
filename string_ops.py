@@ -34,7 +34,7 @@ print(my_string.split(", "))
 """
 Modify the "mystery_string" below until all of the print statements print as expected based on the comments above each print call expression.
 """
-mystery_string = "Unlockigg potential  regardlessco  aiecimecnace."
+mystery_string = "Unlockig potential  regardlesscoa  iecsmstance."
 
 
 print("***************MSTRING")
